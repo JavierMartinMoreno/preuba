@@ -4,4 +4,6 @@ notifications:
   email:
   - betxfree@gmail.com
   - javiermar8@gmail.com
-
+  slack:
+    rooms:
+      - prosofte03:CUTxyVAJD9RnIxgCsiyuaH3t#general
